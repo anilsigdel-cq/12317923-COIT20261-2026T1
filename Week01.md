@@ -10,11 +10,11 @@ To become familiar with basic operations in GNS3, including:
 ### Outputs
 ### 1. Exported Project File
 
-![GitHub Screenshot Demo](./images/week1-task5-summaryofmyknowledge.png)
+![GitHub Screenshot Demo](./GNS3-Intro-12317923.gns3project)
 
 ### 2. Screenshot of the network
 
-![GitHub Screenshot Demo](./images/week1-task5-summaryofmyknowledge.png)
+![GitHub Screenshot Demo](./Images/GNS-Intro-12317923-network.png)
 
 
 ### 3. Screenshot of the console showing the IP address
