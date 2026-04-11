@@ -7,10 +7,11 @@ To become familiar with basic operations in GNS3, including:
 - Using annotations
 - Accessing the console and running Linux commands
 
-### Exported Project File
+### Outputs
+### 1. Exported Project File
 
 
-### Screenshot of the network
+### 2. Screenshot of the network
 
 
-### Screenshot of the console showing the IP address
+### 3. Screenshot of the console showing the IP address
