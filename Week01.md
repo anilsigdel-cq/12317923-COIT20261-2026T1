@@ -10,7 +10,7 @@ To become familiar with basic operations in GNS3, including:
 ### Outputs
 ### 1. Exported Project File
 
-![GitHub Screenshot Demo](./Images/GNS3-Intro-12317923.gns3project)
+[Download GNS3 Project](Images/GNS3-Intro-12317923.gns3project)
 
 ### 2. Screenshot of the network
 
