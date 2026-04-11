@@ -19,4 +19,4 @@ To become familiar with basic operations in GNS3, including:
 
 ### 3. Screenshot of the console showing the IP address
 
-(./images/GNS-Intro-12317923.ipaddress.png)
+![GitHub Screenshot Demo](./Images/GNS-Intro-12317923.ipaddress.png)
