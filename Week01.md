@@ -10,7 +10,7 @@ To become familiar with basic operations in GNS3, including:
 ### Exported Project File
 
 
-### 2.	Screenshot of the network
+### Screenshot of the network
 
 
-### 3.	Screenshot of the console showing the IP address
+### Screenshot of the console showing the IP address
