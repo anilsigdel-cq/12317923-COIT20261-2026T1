@@ -11,15 +11,15 @@ Three different approaches to set static IP address on a Linux host.
 ![Github Screenshot Demo](./Images/Setting-IP-12317923-network.png)
 
 ## 3. Screenshot of the console of each of the four hosts
-#### Host1:
+### Host1:
 ![Github Screenshot Demo](./Images/Setting-IP-12317923-host1.png)
 
-#### Host2:
+### Host2:
 ![Github Screenshot Demo](./Images/Setting-IP-12317923-host2.png)
 
-#### Host3:
+### Host3:
 ![Github Screenshot Demo](./Images/Setting-IP-12317923-host3.png)
 
-#### Host4:
+### Host4:
 ![Github Screenshot Demo](./Images/Setting-IP-12317923-host4.png)
 
