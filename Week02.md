@@ -8,7 +8,7 @@ Three different approaches to set static IP address on a Linux host.
 [Setting IP GNS3 Project](./Images/Setting-IP-12317923.gns3project)
 
 ## 2.	Screenshot of the network
-[Github-screenshot](./Images/Setting-IP-12317923-network.png)
+![Github Screenshot Demo](./Images/Setting-IP-12317923-network.png)
 
 ## 3. Screenshot of the console of each of the four hosts
 # Host1:
