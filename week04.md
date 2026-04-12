@@ -27,21 +27,25 @@ Host3:   10.10.2.103   Gateway: 10.10.2.1
 
 #### Routing Table
 - Host 1
+  
 default via 10.10.1.1 dev eth0
 
 10.10.1.0/24 dev eth0 scope link src 10.10.1.101
 
 - Host2
+  
 default via 10.10.1.1 dev eth0
 
 10.10.1.0/24 dev eth0 scope link src 10.10.1.102
 
 - Host 3
+  
 default via 10.10.2.1 dev eth0
 
 10.10.2.0/24 dev eth0 scope link src 10.10.2.103
 
 - Router 1
+  
   10.10.1.0/24 dev eth0 scope link src 10.10.1.1
   
   10.10.2.0/24 dev eth0 scope link src 10.10.2.1
