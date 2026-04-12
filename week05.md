@@ -11,6 +11,10 @@
 ![Github Screenshot Demo](./Images/Vlan-Basics-12317923-network.png)
 
 ### 3.	Screenshot showing the ports and tags on the switch
+
+![Github Screenshot Demo](./Images/set-vlan-id.png)
+
+
 ![Github Screenshot Demo](./Images/Vlan-Basics-12317923-ports.png)
 
 
