@@ -33,7 +33,6 @@ Learn the basics of ping to test if a device is reachable and to measure delay
 ![Github Screenshot Demo](./Images/Ping-Basics-12317923-simple.png)
 
 - Target: 192.168.10.2
-- 
 - Packets: 6 sent, 6 received (0% loss)
 ##### Latency:
 - Min: 0.306 ms
