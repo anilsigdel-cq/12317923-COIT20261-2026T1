@@ -62,3 +62,20 @@ Observe how dynamic routing is setup and handles network changes
 ### 2.	Screenshot of the network
 ![Github Screenshot Demo](./Images/OSPF-Basics-12317923-network.png)
 
+### 3.	Output showing neigbour routers of FRR1
+![Github Screenshot Demo](./Images/OSPF-neigbour-routers.png)
+
+### 4.	Output showing routing table for two routers.
+![Github Screenshot Demo](./Images/OSPF-routing-table.png)
+
+### 5.	A table that summarises the routers for all routers (with a column for Destination and a column for Next Node).
+![Github Screenshot Demo](./Images/table-summarises-router.png)
+
+### 6.	Output of traceroute commands before and after the link is disconnected (by stopping the NETem node)
+-This is the screenshot before link breaks:
+![Github Screenshot Demo](./Images/traceroute-before-breaklinks.png)
+
+- This is the screenshot after the link breaks:
+![Github Screenshot Demo](./Images/traceroute-after-breaklinks.png)f
+
+
