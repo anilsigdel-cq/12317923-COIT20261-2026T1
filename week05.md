@@ -13,3 +13,16 @@
 ### 3.	Screenshot showing the ports and tags on the switch
 ![Github Screenshot Demo](./Images/Vlan-Basics-12317923-ports.png)
 
+
+## Task 2: Setup VLANs on a Router 
+### Aim 
+Configure VLANs on a Router and enable forwarding between VLANs on a managed switch 
+
+### Outputs 
+### 1.	Exported project
+
+
+### 2.	Screenshot of the network
+
+
+### 3.	Screenshot showing the ports and tags on the switch
