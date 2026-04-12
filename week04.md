@@ -14,16 +14,16 @@ Learn how to view routing tables and enable forwarding on a router.
 ### 3.	Record of the IP addresses and routing tables of each host and router. 
 ### IP Address Summary
 
-Subnet A: 10.10.1.0/24
---------------------------------
-Host1:   10.10.1.101   Gateway: 10.10.10.1
-Host2:   10.10.1.102    Gateway: 10.10.10.1
-Router:  10.10.1.1 (eth0)
+#### Subnet A: 10.10.1.0/24
 
-Subnet B: 10.10.2.0/24
---------------------------------
-Router:  10.10.2.1 (eth1)
-Host3:   10.10.2.103   Gateway: 10.10.2.1
+- Host1:   10.10.1.101   Gateway: 10.10.10.1
+- Host2:   10.10.1.102    Gateway: 10.10.10.1
+- Router:  10.10.1.1 (eth0)
+
+#### Subnet B: 10.10.2.0/24
+
+- Router:  10.10.2.1 (eth1)
+- Host3:   10.10.2.103   Gateway: 10.10.2.1
 
 #### Routing Table
 - Host 1
