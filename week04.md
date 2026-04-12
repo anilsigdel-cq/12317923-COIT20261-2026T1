@@ -72,10 +72,12 @@ Observe how dynamic routing is setup and handles network changes
 ![Github Screenshot Demo](./Images/table-summarises-router.png)
 
 ### 6.	Output of traceroute commands before and after the link is disconnected (by stopping the NETem node)
--This is the screenshot before link breaks:
+- This is the screenshot before link breaks:
+  
 ![Github Screenshot Demo](./Images/traceroute-before-linkbreak.png)
 
 - This is the screenshot after the link breaks:
+  
 ![Github Screenshot Demo](./Images/traceroute-after-breaklinks.png)f
 
 
