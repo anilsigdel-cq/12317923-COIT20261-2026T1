@@ -51,3 +51,14 @@ default via 10.10.2.1 dev eth0
 ### 4.	Screenshot of a successful ping from a host one one subnet to a host on the other subnet
 ![Github Screenshot Demo](./Images/View-Routes-12317923-ping.png)
 
+## Task 1: View Routing Tables 
+### Aim
+Observe how dynamic routing is setup and handles network changes
+
+### Outputs
+### 1.	Exported project
+[View OSPF Basics](./Images/OSPF-Basics-12317923.gns3project)
+
+### 2.	Screenshot of the network
+![Github Screenshot Demo](./Images/OSPF-Basics-12317923-network.png)
+
