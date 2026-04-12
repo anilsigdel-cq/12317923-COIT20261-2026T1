@@ -7,7 +7,7 @@ Learn how to view routing tables and enable forwarding on a router.
 [View Routes](./Images/View-Routes-12317923.gns3project)
 
 ### 2.	Screenshot of the network
-[Github Screenshot Demo](./Images/View-Routes-12317923-network.png)
+![Github Screenshot Demo](./Images/View-Routes-12317923-network.png)
 
 ### 3.	Record of the IP addresses and routing tables of each host and router. 
 ### IP Address Summary
@@ -49,5 +49,5 @@ default via 10.10.2.1 dev eth0
   10.10.2.0/24 dev eth0 scope link src 10.10.2.1
 
 ### 4.	Screenshot of a successful ping from a host one one subnet to a host on the other subnet
-[Github Screenshot Demo](./Images/View-Routes-12317923-ping.png)
+![Github Screenshot Demo](./Images/View-Routes-12317923-ping.png)
 
