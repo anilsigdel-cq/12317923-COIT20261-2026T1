@@ -30,10 +30,10 @@ Learn the basics of ping to test if a device is reachable and to measure delay
 
 ## Outputs
 ## 1.	Screenshot of the console of one host showing the ping command output when no options are used (include the ping command you typed in as well as the summary information).
-![Github Screenshot Demo](./Images/Setting-IP-12317923-host1.png)
+![Github Screenshot Demo](./Images/Ping-Basics-12317923-simple.png)
 
 ## 2.	Screenshot showing the ping command (and output) to a wrong IP address
-![Github Screenshot Demo](./Images/Setting-IP-12317923-host1.png)
+![Github Screenshot Demo](./Images/Ping-Basics-12317923-error.png)
 
 ## 3.	Screenshot showing the ping command (and output) when limiting the count, setting the data size and interval to non-default values
-![Github Screenshot Demo](./Images/Setting-IP-12317923-host1.png)
+![Github Screenshot Demo](./Images/Ping-Basics-12317923-options.png)
