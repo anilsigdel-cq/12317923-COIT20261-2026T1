@@ -21,7 +21,7 @@
 [Default Gateways](./Images/Default-Gateway-12317923.gns3project)
 
 ### 2. Screenshot of the network
-![Github Screenshot Demo](./Images/Default-Gateway-12317923-network1.png)
+![Github Screenshot Demo](./Images/Default-Gateway-12317923-network.png)
 
 ### 3. Record of the IP addresses and routing tables of each host and router. This can either be one or more screenshots, or copy-and-paste of values, or summarising the values in a diagram.  
 
