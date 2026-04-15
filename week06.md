@@ -25,5 +25,20 @@
 
 ### 3. Record of the IP addresses and routing tables of each host and router. This can either be one or more screenshots, or copy-and-paste of values, or summarising the values in a diagram.  
 
+ Here, I am summarising the values in a diagram by showing all record of the IP addresses and routing tables of each host and router
+
+![Github Screenshot Demo](./Images/Host1-IPaddresses-and-routing-table.png)
+
+![Github Screenshot Demo](./Images/Host2-IPaddresses-and-routing-table.png)
+
+![Github Screenshot Demo](./Images/Host3-IPaddresses-and-routing-table.png)
+
+![Github Screenshot Demo](./Images/Host4-IPaddresses-and-routing-table.png)
+
+![Github Screenshot Demo](./Images/Router1-IPaddresses-and-routing-table.png)
+
+![Github Screenshot Demo](./Images/Router2-IPaddresses-and-routing-table.png)
+ 
+
 ### 4. Screenshot of a successful ping from a host one one subnet to a host on the other subnet
 ![Github Screenshot Demo](./Images/Default-Gateway-12317923-ping.png)
