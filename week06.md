@@ -35,9 +35,9 @@
 
 ![Github Screenshot Demo](./Images/Host4-IPaddresses-and-routing-table.png)
 
-![Github Screenshot Demo](./Images/Router1-IPaddresses-and-routing-table.png)
+![Github Screenshot Demo](./Images/Router1-IPaddress-and-routing-table.png)
 
-![Github Screenshot Demo](./Images/Router2-IPaddresses-and-routing-table.png)
+![Github Screenshot Demo](./Images/Router2-IPaddress-and-routing-table.png)
  
 
 ### 4. Screenshot of a successful ping from a host one one subnet to a host on the other subnet
