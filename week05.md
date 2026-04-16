@@ -24,9 +24,13 @@ Configure VLANs on a Router and enable forwarding between VLANs on a managed swi
 
 ### Outputs 
 ### 1.	Exported project
+[Setup VLANs on a Router](./Images/Vlan-Router-12317923.gns3project)
 
+### Screenshot showing the ping from One VLAN to another Vlan
+![Setup VLANs on a Router](./Images/pingonevlantoother.png)
 
 ### 2.	Screenshot of the network
-
+![Github Screenshot Demo](./Images/Vlan-Router-12317923-network.png)
 
 ### 3.	Screenshot showing the ports and tags on the switch
+![Github Screenshot Demo](./Images/Vlan-Router-12317923-ports.png)
